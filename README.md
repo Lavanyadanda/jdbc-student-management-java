@@ -23,4 +23,4 @@ A simple Java console-based application demonstrating JDBC operations with MySQL
 - Input Validation
 
 ## Database Setup
-Run the SQL script in `database.sql` to create the required table.
+Run the SQL script in `student-management-database.sql` to create the required table.
